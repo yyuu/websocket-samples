@@ -1,0 +1,8 @@
+{
+  "name": "echo",
+  "version": "0.0.1git",
+  "author": "Yamashita, Yuu",
+  "dependencies": {
+    "websocket": "1.0.4"
+  }
+}
